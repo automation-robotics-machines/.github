@@ -2,9 +2,7 @@
 
 # Automation, Robotics and Machines Lab (ARM Lab) – SUPSI
 
-The **Automation, Robotics and Machines (ARM) Lab** at the  
-**University of Applied Sciences and Arts of Southern Switzerland (SUPSI)**  
-focuses on advanced research, innovation and technology transfer in industrial and service robotics, mechatronics, and automation.
+The **Automation, Robotics and Machines (ARM) Lab** at the **University of Applied Sciences and Arts of Southern Switzerland (SUPSI)** focuses on advanced research, innovation and technology transfer in industrial and service robotics, mechatronics, and automation.
 
 Our mission is to design intelligent machines and robotic systems that support people and improve industrial processes — enhancing efficiency, precision, and safety across multiple application domains.
 
